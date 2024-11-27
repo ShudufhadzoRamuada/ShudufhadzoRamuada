@@ -1,3 +1,5 @@
-# I’m @Shudufhadzo Ramuada
+# I’m Shudufhadzo Ramuada
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShudufhadzoRamuada)](https://github.com/ShudufhadzoRamuada/github-readme-stats)
+<img alt = "my stats" align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api?username=ShudufhadzoRamuada"/>
+
+<img alt ="top langs" align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ShudufhadzoRamuada&layout=compact"/>
